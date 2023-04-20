@@ -1,5 +1,5 @@
 # About Me
-Aloha! My name is Russell, and I'm a boat captain in Hawaii by day and a coder data dude by night. When I'm not busy driving boats, I enjoy spending my free time sharpening my programming skills and diving into the fascinating world of data analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
+Aloha! My name is Russell, and I'm a boat captain in Hawaii by day and a coder data dude by night. When I'm not busy driving boats or scuba diving, I enjoy sharpening my programming skills and immersing myself in the fascinating world of data analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
 
 ## Education
 * Bachelor of Science in Computer Science and Business: Lehigh University
