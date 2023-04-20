@@ -19,7 +19,7 @@ Master of Science in Applied Business Analytics: Boston University
 ## Projects
 In this GitHub account, you'll find various side projects I've worked on to showcase my programming and data analytics skills. These projects cover a wide range of topics, including data cleaning, exploratory data analysis, machine learning, and time series forecasting.
 
-Feel free to explore my repositories, provide feedback, or collaborate on exciting projects. I am also open to discussing job opportunities or freelance work related to data analytics or software development.
+Feel free to explore my repositories, provide feedback, or collaborate on existing projects. I am also open to discussing job opportunities or freelance work related to data analytics or software development.
 
 ## Contact
 If you'd like to get in touch, feel free to reach out via [LinkedIn](https://linkedin.com/in/russell-laros) or send me an email at laros.russell@gmail.com.
