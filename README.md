@@ -1,5 +1,5 @@
 # About Me
-Hello and welcome to my GitHub! My name is, and I'm a computer science enthusiast with a passion for coding and data analytics. I hold a Bachelor of Science in Computer Science and Business and a Master of Science in Applied Business Analytics.
+Hello and welcome to my GitHub! My name is Russell, and I'm a computer science enthusiast with a passion for coding and data analytics. I hold a Bachelor of Science in Computer Science and Business and a Master of Science in Applied Business Analytics.
 
 Although I currently work as a boat captain in Hawaii, my love for programming and data analytics has led me to spend my free time working on various coding projects. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
 
