@@ -1,11 +1,9 @@
 # About Me
-Hello and welcome to my GitHub! My name is Russell, and I'm a computer science enthusiast with a passion for coding and data analytics. I hold a Bachelor of Science in Computer Science and Business and a Master of Science in Applied Business Analytics.
-
-Although I currently work as a boat captain in Hawaii, my love for programming and data analytics has led me to spend my free time working on various coding projects. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
+Aloha! My name is Russell, and I'm a boat captain in Hawaii by day and a coder data dude by night. When I'm not busy driving boats, I enjoy spending my free time sharpening my programming skills and diving into the fascinating world of data analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
 
 ## Education
-Bachelor of Science in Computer Science and Business: Lehigh University
-Master of Science in Applied Business Analytics: Boston University
+* Bachelor of Science in Computer Science and Business: Lehigh University
+* Master of Science in Applied Business Analytics: Boston University
 
 ## Skills
 * Programming languages: Python, R, Java, JavaScript, SQL
