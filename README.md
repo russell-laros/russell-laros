@@ -1,12 +1,12 @@
 # About Me
-Aloha! My name is Russell, and I'm a boat captain in Hawaii by day and a coder data dude by night. When I'm not busy driving boats or scuba diving, I enjoy sharpening my programming skills and immersing myself in the fascinating world of data science/analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
+Aloha! My name is Russell, and I'm a Data Analyst/Boat Captain. When I'm not busy driving boats or scuba diving, I enjoy sharpening my programming skills and immersing myself in the fascinating world of data science/analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
 
 ## Education
-* Bachelor of Science in Computer Science and Business: Lehigh University
 * Master of Science in Applied Business Analytics: Boston University
+* Bachelor of Science in Computer Science and Business: Lehigh University
 
 ## Skills
-* Programming languages: Python, R, Java, JavaScript, SQL
+* Programming languages: Python, R, Java, SQL
 * Data analysis and visualization: pandas, NumPy, Matplotlib, Seaborn, ggplot2, Tableau
 * Machine learning: scikit-learn, TensorFlow, Keras, PyTorch
 * Time series analysis: statsmodels, fbprophet, ARIMA, LSTM
