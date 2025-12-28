@@ -1,23 +1,24 @@
 # About Me
-Aloha! My name is Russell, and I'm a Data Analyst/Boat Captain. When I'm not busy driving boats or scuba diving, I enjoy sharpening my programming skills and immersing myself in the fascinating world of data science/analytics. I believe in the power of data to uncover insights and drive decision-making, and I enjoy using my skills to solve real-world problems.
+Aloha! I’m Russell, a Data Scientist with a background in analytics, predictive modeling, and optimization. I currently work in industry building models that support real estate decision-making, and I use this GitHub space to explore ideas and sharpen skills outside of work.
+
+Many of the projects here are side explorations: testing modeling approaches, working through data cleaning and feature engineering problems, and experimenting with different predictive techniques. I’m especially interested in machine learning and AI for automation and optimization.
 
 ## Education
 * Master of Science in Applied Business Analytics: Boston University
 * Bachelor of Science in Computer Science and Business: Lehigh University
 
 ## Skills
-* Programming languages: Python, R, Java, SQL
-* Data analysis and visualization: pandas, NumPy, Matplotlib, Seaborn, ggplot2, Tableau
-* Machine learning: scikit-learn, TensorFlow, Keras, PyTorch
+* Programming languages: Python, R, SQL
+* Data analysis and visualization: pandas, NumPy, Matplotlib, Seaborn, ggplot2
+* Machine learning: scikit-learn, PyTorch
 * Time series analysis: statsmodels, fbprophet, ARIMA, LSTM
-* Web development: HTML, CSS, JavaScript
 * Databases: MySQL, SQLite
 * Version control: Git, GitHub
 
 ## Projects
-In this GitHub account, you'll find various side projects I've worked on to showcase my programming and data analytics skills. These projects cover a wide range of topics, including data cleaning, exploratory data analysis, machine learning, and time series forecasting.
+In this GitHub account, you'll find various side projects I've worked on. These projects cover a wide range of topics, including data cleaning, exploratory data analysis, machine learning, and time series forecasting.
 
-Feel free to explore my repositories, provide feedback, or collaborate on existing projects. I am also open to discussing job opportunities or freelance work related to data analytics or software development.
+Feel free to explore my repositories, provide feedback, or collaborate on existing projects.
 
 ## Contact
 If you'd like to get in touch, feel free to reach out via [LinkedIn](https://linkedin.com/in/russell-laros) or send me an email at laros.russell@gmail.com.
